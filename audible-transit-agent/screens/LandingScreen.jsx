@@ -8,8 +8,8 @@
 // // // // import axios from 'axios';
 
 // // // // const PHRASE = 'hello';
-// // // // const IP = '192.168.0.105';
-// // // // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE'; // PASTE YOUR KEY
+// // // // const IP = 'IP';
+// // // // const GOOGLE_API_KEY = 'API-KEY'; // PASTE YOUR KEY
 
 // // // // // Get screen dimensions for camera sizing
 // // // // const { width, height } = Dimensions.get('window');
@@ -238,8 +238,8 @@
 // // // import axios from 'axios';
 
 // // // const PHRASE = 'hello';
-// // // const IP = '192.168.0.105';
-// // // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE'; // PASTE YOUR KEY
+// // // const IP = 'IP';
+// // // const GOOGLE_API_KEY = 'API-KEY'; // PASTE YOUR KEY
 
 // // // // Get screen dimensions for camera sizing
 // // // const { width, height } = Dimensions.get('window');
@@ -470,8 +470,8 @@
 // // // import axios from 'axios';
 
 // // // const PHRASE = 'hello';
-// // // const IP = '192.168.0.105';
-// // // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// // // const IP = 'IP';
+// // // const GOOGLE_API_KEY = 'API-KEY';
 
 // // // const { width, height } = Dimensions.get('window');
 
@@ -1097,8 +1097,8 @@
 // // // import { LinearGradient } from 'expo-linear-gradient'; // 👈 USING EXPO'S LINEAR GRADIENT
 
 // // // const PHRASE = 'hello';
-// // // const IP = '192.168.0.105';
-// // // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// // // const IP = 'IP';
+// // // const GOOGLE_API_KEY = 'API-KEY';
 // // // const { width, height } = Dimensions.get('window');
 
 // // // export default function LandingScreen({ route }) {
@@ -1459,8 +1459,8 @@
 // import { LinearGradient } from 'expo-linear-gradient'; // Ensure you have installed 'expo-linear-gradient'
 
 // const PHRASE = 'hello';
-// const IP = '192.168.0.105';
-// const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// const IP = 'IP';
+// const GOOGLE_API_KEY = 'API-KEY';
 // const { width, height } = Dimensions.get('window');
 // const LONG_PRESS_DURATION = 300;
 
@@ -1873,8 +1873,8 @@
 // // import axios from 'axios';
 
 // // const PHRASE = 'hello';
-// // const IP = '192.168.0.105';
-// // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// // const IP = 'IP';
+// // const GOOGLE_API_KEY = 'API-KEY';
 // // const { width, height } = Dimensions.get('window');
 
 // // export default function LandingScreen({ route }) {
@@ -2186,7 +2186,7 @@
 // import { Feather } from '@expo/vector-icons'; // 👈 NEW: Importing Feather icons
 
 // const PHRASE = 'hello';
-// const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// const GOOGLE_API_KEY = 'API-KEY';
 // const { width, height } = Dimensions.get('window');
 
 // // Component to handle the colorful, pulsing glow effect
@@ -2597,8 +2597,8 @@ import { Feather } from '@expo/vector-icons';
 import axios from 'axios'; // 👈 NEW
 
 const PHRASE = 'hello';
-const IP = '192.168.0.105'; // 👈 NEW: Define your backend IP
-const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+const IP = 'IP'; // 👈 NEW: Define your backend IP
+const GOOGLE_API_KEY = 'API-KEY';
 const { width, height } = Dimensions.get('window');
 
 // Component to handle the colorful, pulsing glow effect
