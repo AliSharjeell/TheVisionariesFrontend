@@ -13,8 +13,8 @@
 // // // //   { key: 'timeTolerance', text: 'Max wait time before rerouting?' },
 // // // // ];
 
-// // // // const IP = '192.168.0.105';
-// // // // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE'; // PASTE HERE
+// // // // const IP = 'IP';
+// // // // const GOOGLE_API_KEY = 'API-KEY'; // PASTE HERE
 
 // // // // export default function OnboardingScreen({ navigation, route }) {
 // // // //   const userId = route.params?.userId ?? 'test-user';
@@ -178,8 +178,8 @@
 // // // //   { key: 'timeTolerance', text: 'Max wait time before rerouting?' },
 // // // // ];
 
-// // // // const IP = '192.168.0.105';
-// // // // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// // // // const IP = 'IP';
+// // // // const GOOGLE_API_KEY = 'API-KEY';
 
 // // // // export default function OnboardingScreen({ navigation, route }) {
 // // // //   const userId = route.params?.userId ?? 'test-user';
@@ -630,8 +630,8 @@
 // // // //   },
 // // // // ];
 
-// // // // const IP = '192.168.0.105';
-// // // // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// // // // const IP = 'IP';
+// // // // const GOOGLE_API_KEY = 'API-KEY';
 
 // // // // export default function OnboardingScreen({ navigation, route }) {
 // // // //   const userId = route.params?.userId ?? 'test-user';
@@ -1085,8 +1085,8 @@
 // // //   },
 // // // ];
 
-// // // const IP = '192.168.0.105';
-// // // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// // // const IP = 'IP';
+// // // const GOOGLE_API_KEY = 'API-KEY';
 
 // // // export default function OnboardingScreen({ navigation, route }) {
 // // //   const userId = route.params?.userId ?? 'test-user';
@@ -1671,8 +1671,8 @@
 // //   },
 // // ];
 
-// // const IP = '192.168.0.105';
-// // const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// // const IP = 'IP';
+// // const GOOGLE_API_KEY = 'API-KEY';
 
 // // export default function OnboardingScreen({ navigation, route }) {
 // //   const userId = route.params?.userId ?? 'test-user';
@@ -2245,8 +2245,8 @@
 //   },
 // ];
 
-// const IP = '192.168.0.105';
-// const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// const IP = 'IP';
+// const GOOGLE_API_KEY = 'API-KEY';
 
 // export default function OnboardingScreen({ navigation, route }) {
 //   const userId = route.params?.userId ?? 'test-user';
@@ -2891,8 +2891,8 @@
 //   },
 // ];
 
-// const IP = '192.168.0.105';
-// const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// const IP = 'IP';
+// const GOOGLE_API_KEY = 'API-KEY';
 // const COMMAND_DURATION_MS = 3000; // 3 seconds for voice command window
 
 // export default function OnboardingScreen({ navigation, route }) {
@@ -3613,8 +3613,8 @@
 //   },
 // ];
 
-// const IP = '192.168.0.105'; // IMPORTANT: Verify this IP matches your local server
-// const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+// const IP = 'IP'; // IMPORTANT: Verify this IP matches your local server
+// const GOOGLE_API_KEY = 'API-KEY';
 // const COMMAND_DURATION_MS = 3000; // 3 seconds for voice command window
 
 // export default function OnboardingScreen({ navigation, route }) {
@@ -4112,8 +4112,8 @@ const questions = [
   },
 ];
 
-const IP = '192.168.0.105'; // IMPORTANT: Verify this IP matches your local server
-const GOOGLE_API_KEY = 'AIzaSyCFOLP0EfP2OgqU6NHLjjUpktvO4fE8xGE';
+const IP = 'IP'; // IMPORTANT: Verify this IP matches your local server
+const GOOGLE_API_KEY = 'API-KEY';
 
 export default function OnboardingScreen({ navigation, route }) {
   const userId = route.params?.userId ?? 'test-user';
